@@ -51,5 +51,8 @@ This chatbot is trained with funny prompts whose intent is to convert currency.
 ## ngrok configuration - 
 <img width="947" alt="image" src="https://github.com/SamruddhiBhosale/chatbot/assets/41594930/320959e2-df78-4654-aab9-c357f56ccbef">
 
+Output of the chatbot is shown below . The chatbot is integrated with telegram .
+## Output - 
+<img width="1262" alt="Screenshot 2024-04-27 at 10 45 10" src="https://github.com/SamruddhiBhosale/chatbot/assets/41594930/7331288c-6ba2-479a-a81e-4b660956742c">
 
 
